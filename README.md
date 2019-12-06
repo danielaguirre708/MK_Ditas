@@ -5,8 +5,7 @@ straightforward definition syntax, make to womans and men.
 
 ## Prerequisites
 python3.4 or above 
-anaconda (optional) 
-
+install requirements.txt
 
 
 ## Installation

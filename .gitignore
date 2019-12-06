@@ -1,0 +1,13 @@
+auto_checks.html
+.DS_Store
+__pycache__
+*.pyc
+.ipynb_checkpoints
+*data
+features.csv
+profile.env
+*.parquet
+*.idea/
+mlruns/
+catboost_info/
+
