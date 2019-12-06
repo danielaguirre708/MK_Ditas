@@ -2,7 +2,7 @@
 # `pip install -r requirements.txt` before you can run this.
 certifi==2019.3.9
 django>=2.2.8
-Pillow==6.0.0
+pillow>=6.2.0
 pytz==2019.1
 sqlparse==0.3.0
 wincertstore==0.2
