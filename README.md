@@ -13,7 +13,7 @@ install requirements.txt
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Django
 
 ```bash
-pip install foobar
+pip install django
 ```
 
 ## Usage with conda
