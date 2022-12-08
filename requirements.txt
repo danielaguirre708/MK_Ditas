@@ -1,6 +1,6 @@
 # Library dependencies for the python code.  You need to install these with
 # `pip install -r requirements.txt` before you can run this.
-certifi==2019.3.9
+certifi==2022.12.7
 django>=2.2.8
 pillow>=6.2.0
 pytz==2019.1
